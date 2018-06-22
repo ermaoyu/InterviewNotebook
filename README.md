@@ -1,6 +1,6 @@
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ |
-| :--------: | :---------: | :---------: | :---------: | :-------: | :-------:| :------:|
-| 算法[:pencil2:](#算法-pencil2) | 操作系统[:computer:](#操作系统-computer)  |网络[:cloud:](#网络-cloud)  |数据库[:floppy_disk:](#数据库-floppy_disk)| Java [:coffee:](#java-coffee)| Linux [:cactus:](#Linux-:cactus:)| 声明[:blush:](#声明-blush) |
+| :--------: | :---------: | :---------: | :---------: | :-------: | :-------:| :------:| :------:|
+| 算法[:pencil2:](#算法-pencil2) | 常用框架[:computer:](#操作系统-computer)  |网络[:cloud:](#网络-cloud)  |数据库[:floppy_disk:](#数据库-floppy_disk)| Java相关 [:coffee:](#java-coffee)| Linux [:cactus:](#Linux-:cactus:)| 声明[:blush:](#声明-blush) |
 
 
 
@@ -10,7 +10,7 @@
 
 > 待完善。。。
 
-## 操作系统 :computer:
+## 常用框架 :computer:
 
 > 待完善。。。
 
@@ -24,7 +24,7 @@
 
 > 待完善。。。
 
-## Java :coffee:
+## Java相关 :coffee:
 
 > 待完善。。。
 
