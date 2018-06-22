@@ -6,7 +6,7 @@
 
 ## 算法 :pencil2:
 
-> [剑指 Offer 题解](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/剑指%20offer%20题解.md)
+> [剑指 Offer 题解](https://github.com/gyl-coder/InterviewNotebook/blob/master/src/algorithm/%E5%89%91%E6%8C%87Offer%E9%A2%98%E8%A7%A3.md)
 
 > 待完善。。。
 
